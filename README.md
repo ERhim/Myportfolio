@@ -1,2 +1,2 @@
 # Myportfolio
-https://erhim.github.io/CODSOFTJUNE_Myportfolio/
+https://erhim.github.io/Myportfolio/
